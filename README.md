@@ -1,6 +1,6 @@
-An Abundance Manifesto, Abridged, v0.1.0
+# An Abundance Manifesto, Abridged, v0.1.0
 
-What you're about to read is subversive as fuck.
+_What you're about to read is subversive as fuck._
 
 Our current society disenfranchises many. People who are thoughtful towards a kinder culture are unappreciated by society. These are Good People, as most of us are, we only want What's Best. On a fundamental level, most of us know what this means. That said, this then becomes tainted and warped by ideology. Scarcity-thinking, the idea that we do not have enough, exceptionalism, the idea that we are special and only we get the best-- and only if we work hard enough-- in addition to old-school commodity-fetishism, could perhaps be said to be society's means of making us care about things that don't necessarily have inherent value. Capitalism has means and ways of convincing us of all such lies.
 
